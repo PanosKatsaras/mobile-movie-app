@@ -5,12 +5,11 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 ## Mobile Movie App
 
-The Mobile Movie App is a React Native-based application designed to provide users with an intuitive and engaging platform to explore movies.
+he Mobile Movie App is a React Native-based application designed to provide users with a seamless platform to explore movies. 
 
-Powered by the TMDB API, the app allows users to search for movies, view trending titles, and access detailed information about their favorite films.
+Powered by the TMDB API and Appwrite, the app allows users to search for movies, view trending titles, and access detailed information about their favorite films.
 
-With a clean and responsive UI, the app ensures a seamless experience for movie enthusiasts.
-
+The app dynamically updates trending movies based on user searches, ensuring a personalized and engaging experience for movie enthusiasts.
 
 ![mobiles](https://github.com/user-attachments/assets/68a0bb9e-e4a7-4752-9b5c-5f8709642b01)
 
