@@ -11,6 +11,10 @@ Powered by the TMDB API, the app allows users to search for movies, view trendin
 
 With a clean and responsive UI, the app ensures a seamless experience for movie enthusiasts.
 
+
+![mobiles](https://github.com/user-attachments/assets/68a0bb9e-e4a7-4752-9b5c-5f8709642b01)
+
+
 ## Get started
 
 1. Install dependencies
